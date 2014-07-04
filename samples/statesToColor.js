@@ -1,0 +1,1 @@
+$('#vmap').vectorMap('set','colors',{nh:'#0000ff'});
